@@ -1,4 +1,4 @@
-# HPE-Unified-Functional-Testing
+# HPE Unified Functional- FlightsGUI Tutorial
 
 Version: 14.01
 Language: VBScripts
